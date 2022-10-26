@@ -1,9 +1,3 @@
-//
-//  My_CardApp.swift
-//  My_Card
-//
-//  Created by Admin on 05/08/2022.
-//
 
 import SwiftUI
 
