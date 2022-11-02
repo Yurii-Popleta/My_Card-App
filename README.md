@@ -6,7 +6,7 @@
 
 
 ## Goal
-Creating app that can recognize cat, dog and rabbit depending on photo that user take and write to user what is this.
+Creating app where user can make his business card.
 
 ## What I understand and implement in this app
 
